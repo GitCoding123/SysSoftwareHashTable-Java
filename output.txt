@@ -1,0 +1,38 @@
+[Stored] moss 25 at location 30
+Error: Collision detected. Cannot store moss.
+	--> moss already stored at location 30.
+(SEARCH)- moss WAS found at location 30.
+[Stored] eno 33 at location 22
+[Stored] fred 20 at location 16
+[Stored] gorge 18 at location 5
+[Stored] mia 33 at location 48
+[Stored] john 4 at location 13
+[Stored] jack 8 at location 43
+[Stored] jamie 63 at location 53
+[Stored] don 45 at location 19
+[Stored] deacon 4 at location 50
+[Stored] brian 8 at location 24
+Error: Collision detected. Cannot store julie.
+	--> moss already stored at location 30.
+Error: Collision detected. Cannot store kris.
+	--> jamie already stored at location 53.
+[Stored] henry 11 at location 36
+[Stored] marcia 25 at location 9
+[Stored] jay 8 at location 28
+[Stored] donny 2 at location 46
+[Stored] april 6 at location 25
+[Stored] bree 1 at location 4
+[Stored] drake 76 at location 58
+Error: Collision detected. Cannot store jamie.
+	--> jamie already stored at location 53.
+[Stored] matt 52 at location 41
+[Stored] dre 48 at location 1
+[Stored] pho 3 at location 37
+(SEARCH)- nate WAS NOT found.
+(SEARCH)- brian WAS found at location 24.
+Error: Collision detected. Cannot store brian.
+	--> brian already stored at location 24.
+
+There was a total of 5 collisions detected.
+Only 21 elements were stored out of a total 26 elements.
+A total of 3 searches were conducted.
